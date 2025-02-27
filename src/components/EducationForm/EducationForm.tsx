@@ -19,7 +19,7 @@ const EducationForm: React.FC = () => {
     <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4 py-16">
       <div className="w-full max-w-lg bg-white shadow-lg rounded-lg p-9 sm:p-8">
 
-        <div className="flex justify-center items-center gap-4 mb-4">
+        <div className="flex justify-center items-center gap-4 mb-4 bg-red-700 p-8">
           <div className="w-1/4 h-[5px] bg-[#0256B2] bg-opacity-90 rounded-lg"></div>
           <div className="w-1/4 h-[5px] bg-[#E6EEF7] bg-opacity-95 rounded-lg "></div>
           <div className="w-1/4 h-[5px] bg-[#E6EEF7] bg-opacity-95 rounded-lg "></div>
